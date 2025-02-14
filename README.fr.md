@@ -1,8 +1,9 @@
-nom de référentiel
+traçage de Jaeger
 
-# Nom de référentiel
+# Jaeger tracé
 
-> Lisc
+> Jaeger: Open source, plate-forme de traçage distribué
+> Surveiller et dépanner les flux de travail dans des systèmes distribués complexes
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -16,7 +17,7 @@ nom de référentiel
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
