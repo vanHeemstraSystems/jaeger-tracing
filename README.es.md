@@ -2,8 +2,7 @@ rastreo de jaeger
 
 # Rastreo de Jaeger
 
-> Jaeger: plataforma de rastreo distribuida, código abierto
-> Monitorear y solucionar problemas de flujos de trabajo en sistemas distribuidos complejos
+> Jaeger: plataforma de rastreo distribuida, código abierto<br/>Monitorear y solucionar problemas de flujos de trabajo en sistemas distribuidos complejos
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
