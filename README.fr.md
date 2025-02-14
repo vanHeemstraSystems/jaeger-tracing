@@ -2,8 +2,7 @@ traçage de Jaeger
 
 # Jaeger tracé
 
-> Jaeger: Open source, plate-forme de traçage distribué
-> Surveiller et dépanner les flux de travail dans des systèmes distribués complexes
+> Jaeger: Open source, plate-forme de traçage distribué<br/>Surveiller et dépanner les flux de travail dans des systèmes distribués complexes
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
