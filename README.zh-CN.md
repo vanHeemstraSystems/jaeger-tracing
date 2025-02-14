@@ -2,8 +2,7 @@ Jaeger追踪
 
 # Jaeger追踪
 
-> Jaeger: open source, distributed tracing platform
-> Monitor and troubleshoot workflows in complex distributed systems
+> Jaeger: open source, distributed tracing platform<br/>在复杂的分布式系统中监视和故障排除工作流程
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -17,11 +16,11 @@ Jaeger追踪
 -   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
-**执行摘要**
+**Executive Summary**
 
 文本
 
-生成[ritr](https://app.rytr.me)
+生成[Rytr](https://app.rytr.me)
 
 ## 100-简介
 
