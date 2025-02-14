@@ -1,8 +1,9 @@
-Repository-Namen
+jaeger-tracing
 
-# Repository -Name
+# Jaeger -Verfolgung
 
-> Slugline
+> Jaeger: open source, distributed tracing platform
+> Monitor and troubleshoot workflows in complex distributed systems
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -11,7 +12,7 @@ Repository-Namen
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [NX](./NX.md)
--   [Podman](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -32,7 +33,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 - Aufbau unserer Bewerbung
 
-See [README.md](./300/README.md)
+Sehen[README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
