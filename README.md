@@ -1,7 +1,8 @@
-repository-name
-# Repository Name
+jaeger-tracing
+# Jaeger Tracing
 
-> Slugline
+> Jaeger: open source, distributed tracing platform
+> Monitor and troubleshoot workflows in complex distributed systems
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
