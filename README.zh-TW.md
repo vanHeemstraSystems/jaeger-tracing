@@ -1,15 +1,16 @@
-repository-name
+Jaeger追踪
 
-# 存儲庫名稱
+# Jaeger追踪
 
-> 板條
+> Jaeger：開源，分佈式跟踪平台
+> 在復雜的分佈式系統中監視和故障排除工作流程
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
--   [圖像](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
@@ -32,7 +33,7 @@ repository-name
 
 ## 300-構建我們的應用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400-結論
 
