@@ -2,15 +2,14 @@ Jaeger追踪
 
 # Jaeger追踪
 
-> Jaeger：開源，分佈式跟踪平台
-> 在復雜的分佈式系統中監視和故障排除工作流程
+> Jaeger：開源，分佈式跟踪平台<br/>在復雜的分佈式系統中監視和故障排除工作流程
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
@@ -29,7 +28,7 @@ Jaeger追踪
 
 ## 200-要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300-構建我們的應用程序
 
