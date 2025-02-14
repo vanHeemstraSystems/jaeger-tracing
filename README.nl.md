@@ -1,8 +1,9 @@
-repository-naam
+jaeger-tracing
 
-# Repository -naam
+# Jaeger tracing
 
-> Sluglijn
+> Jaeger: open source, distributed tracing platform
+> Monitor and troubleshoot workflows in complex distributed systems
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -32,7 +33,7 @@ Zien[README.md](./200/README.md)
 
 ## 300 - onze applicatie bouwen
 
-See [README.md](./300/README.md)
+Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
