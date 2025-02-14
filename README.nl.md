@@ -1,9 +1,8 @@
 Jaeger-tracing
 
-# Jaeger tracing
+# Jaeger Tracing
 
-> Jaeger: open source, gedistribueerd tracingplatform<br/>
-> Monitor and troubleshoot workflows in complex distributed systems
+> Jaeger: open source, gedistribueerd tracingplatform<br/>Workflows bewaken en oplossen in complexe gedistribueerde systemen
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
