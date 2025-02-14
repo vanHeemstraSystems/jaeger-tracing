@@ -28,7 +28,7 @@ Jaeger追踪
 
 ## 200-要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300-構建我們的應用程序
 
