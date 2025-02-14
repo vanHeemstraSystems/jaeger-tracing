@@ -1,8 +1,9 @@
-repository-name
+rastreo de jaeger
 
-# Nombre de repositorio
+# Rastreo de Jaeger
 
-> Línea de babosa
+> Jaeger: plataforma de rastreo distribuida, código abierto
+> Monitorear y solucionar problemas de flujos de trabajo en sistemas distribuidos complejos
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -11,14 +12,14 @@ repository-name
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Nx](./NX.md)
--   [Podman](./PODMAN.md)
+-   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
-Text
+Texto
 
 Generado con[Ritro](https://app.rytr.me)
 
@@ -34,6 +35,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusión
 
 Ver[README.md](./400/README.md)
